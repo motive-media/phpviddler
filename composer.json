@@ -1,5 +1,5 @@
 {
-    "name": "viddler/phpviddler",
+    "name": "motive-media/phpviddler",
     "require": {
         "php": ">=5.1.0"
     }
